@@ -1,23 +1,23 @@
 
 # JMeter Load & Performance Testing
 
-This project contains some jmx files where I did some experiments to learn this tool 
+This project contains a collection of JMeters files I created while learning about Performance Testing.
 
 
 ## Features
 
-- How to implement Performan Testing in APIs
-- How to read data from a csv file and use variables and parameters
-- How to do Performan Testing to MondoDB data base
+- How to implement Performance Testing in APIs
+- How to read data from a CSV file and use variables and parameters
+- How to do Performance Testing on MongoDB database
 
 ## Installation
 
-First download JMeter and open a terminar on ~/jmeter/bin folder and execute the following command 
+First, download JMeter, open a terminal on ~/jmeter/bin folder, and execute the following command. 
 
 ```bash
   sh jmeter.sh
 ```
-Finally open the fiels on the folder Tests, and enjoy!
+Finally, open the files on the folder Tests, and enjoy!
 ## Tips
 
 ### To run JMeter without GUI 
